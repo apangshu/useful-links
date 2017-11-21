@@ -10,3 +10,5 @@ stanfordnlp/GloVe [https://github.com/stanfordnlp/GloVe]
 
 How to calculate p value:
 https://wikihow.com/Calculate-P-Value
+
+ConvNetJS-browser based deep learning
