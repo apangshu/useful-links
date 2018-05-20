@@ -16,6 +16,10 @@ eigenvalue and eigen vectors
 
 https://youtu.be/T8dPpuc8YN8
 
+deep learning
+rnn
+https://youtu.be/UNmqTiOnRfg
+
 
 
 
